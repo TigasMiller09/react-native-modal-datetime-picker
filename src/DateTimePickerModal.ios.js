@@ -50,8 +50,8 @@ export class DateTimePickerModal extends React.PureComponent {
   };
 
   static defaultProps = {
-    cancelTextIOS: "Cancel",
-    confirmTextIOS: "Confirm",
+    cancelTextIOS: "Cancelar",
+    confirmTextIOS: "Confirmar",
     modalPropsIOS: {},
     date: new Date(),
     isDarkModeEnabled: undefined,
