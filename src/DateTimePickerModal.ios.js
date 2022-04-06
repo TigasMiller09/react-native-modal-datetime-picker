@@ -18,7 +18,7 @@ export const BORDER_COLOR_DARK = "#272729";
 export const BORDER_RADIUS = 13;
 export const BUTTON_FONT_WEIGHT = "normal";
 export const BUTTON_FONT_COLOR = "#D96762";
-export const BUTTON_FONT_SIZE = 16;
+export const BUTTON_FONT_SIZE = 17;
 export const HIGHLIGHT_COLOR_DARK = "#444444";
 export const HIGHLIGHT_COLOR_LIGHT = "#ebebeb";
 
@@ -202,22 +202,18 @@ const pickerStyles = StyleSheet.create({
   modal: {
     justifyContent: "flex-end",
     margin: 10,
-    fontSize: 10,
   },
   container: {
     borderRadius: BORDER_RADIUS,
     marginBottom: 8,
     overflow: "hidden",
-    fontSize: 10,
   },
   pickerSpinner: {
     marginBottom: 8,
-    fontSize: 10,
   },
   pickerInline: {
     paddingHorizontal: 12,
     paddingTop: 14,
-    fontSize: 10,
   },
   containerLight: {
     backgroundColor: BACKGROUND_COLOR_LIGHT,
