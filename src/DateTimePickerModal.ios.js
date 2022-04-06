@@ -18,7 +18,7 @@ export const BORDER_COLOR_DARK = "#272729";
 export const BORDER_RADIUS = 13;
 export const BUTTON_FONT_WEIGHT = "normal";
 export const BUTTON_FONT_COLOR = "#D96762";
-export const BUTTON_FONT_SIZE = 20;
+export const BUTTON_FONT_SIZE = 16;
 export const HIGHLIGHT_COLOR_DARK = "#444444";
 export const HIGHLIGHT_COLOR_LIGHT = "#ebebeb";
 
