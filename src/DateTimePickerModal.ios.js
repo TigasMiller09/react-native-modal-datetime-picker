@@ -202,18 +202,22 @@ const pickerStyles = StyleSheet.create({
   modal: {
     justifyContent: "flex-end",
     margin: 10,
+    fontSize: 10,
   },
   container: {
     borderRadius: BORDER_RADIUS,
     marginBottom: 8,
     overflow: "hidden",
+    fontSize: 10,
   },
   pickerSpinner: {
     marginBottom: 8,
+    fontSize: 10,
   },
   pickerInline: {
     paddingHorizontal: 12,
     paddingTop: 14,
+    fontSize: 10,
   },
   containerLight: {
     backgroundColor: BACKGROUND_COLOR_LIGHT,
